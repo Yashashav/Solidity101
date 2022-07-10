@@ -15,6 +15,7 @@ contract Primitives {
     int public intMin = type(int).min;
 
     address public addr = 0xCA35b7d915458EF540aDe6068dFe2F44E8fa733c;
+    bytes32 public sample_keccak_hash = 0xfdf99c0747807df64c1942eaf5dfb2a3adff0a3e54856077cd83eddc689da152;
 
     bytes1 a = 0xb6;
 
